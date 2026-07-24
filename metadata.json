@@ -1,0 +1,6 @@
+{
+  "name": "AI 핏코디 - AI 퍼스널 옷장 & 코디 추천",
+  "description": "카메라로 옷과 체형을 스캔하여 날씨, 개인 취향, 체형에 맞춤화된 AI 스타일링을 추천하고 친구들과 OOTD를 공유하는 스마트 코디 애플리케이션",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
